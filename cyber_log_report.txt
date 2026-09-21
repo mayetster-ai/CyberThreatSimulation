@@ -1,0 +1,51 @@
+
+===== CYBER THREAT LOG REPORT =====
+Name: Rosemarie
+Handle: Ph@nt0m
+Start Time: 2026-09-21 08:55:21.766080
+End Time: 2026-09-21 08:56:35.621205
+Duration (minutes): 1.23
+Score: 10/10
+Rating: EXPERT
+---- Threat Logs ----
+Threat: HTTPS Web Exploit
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Failed login attempt detected from 192.168.1.181 on port
+-------------------
+Threat: HTTP Web Exploit
+WARNING: Multiple authentication failures for service
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: Telnet Credential Theft
+CRITICAL: Ransomware activity suspected via
+WARNING: Multiple authentication failures for service
+-------------------
+Threat: SMTP Phishing Campaign
+CRITICAL: Ransomware activity suspected via
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: MySQL Data Theft
+WARNING: Multiple authentication failures for service
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: Proxy Web Exploit
+CRITICAL: Ransomware activity suspected via
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+Threat: RDP Brute Force Attack
+NOTICE: Suspicious traffic pattern detected targeting port 
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: FTP Credential Sniffing
+ALERT: Possible brute force attempt detected
+ALERT: Possible brute force attempt detected
+-------------------
+Threat: DNS Amplification DDoS
+ALERT: Possible brute force attempt detected
+CRITICAL: Ransomware activity suspected via
+-------------------
+Threat: POP3 Credential Sniffing
+CRITICAL: Ransomware activity suspected via
+NOTICE: Suspicious traffic pattern detected targeting port 
+-------------------
+===================================
